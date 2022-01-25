@@ -12,7 +12,7 @@ export const Container = styled.a`
     &::after {
       content: "";
       position: absolute;
-      bottom: 30%;
+      bottom: 20%;
       left: 50%;
       width: 0;
       height: 0.2rem;
